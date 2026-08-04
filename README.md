@@ -5,7 +5,7 @@ Welcome to my Manual Software Testing Portfolio.
 
 My name is **Sondos Ali**, a licensed Dentist with an ISTQB® Certified Tester Foundation Level (CTFL) certification and hands-on experience in Manual Software Testing.
 
-My background in dentistry, combined with software testing, allows me to understand healthcare workflows and create meaningful test scenarios for dental and healthcare applications.
+My background in dentistry, combined with software testing and digital dental design, allows me to understand healthcare workflows and create meaningful test scenarios for dental and healthcare applications.
 
 This repository showcases my manual testing projects, including test case design, bug reporting, and testing documentation.
 
