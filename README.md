@@ -66,8 +66,6 @@ Each report includes:
 - Priority
 - Status
 
-Screenshots of the Trello workflow are also included.
-
 ---
 
 # Skills Demonstrated
@@ -91,8 +89,6 @@ Screenshots of the Trello workflow are also included.
 
 - Google Sheets
 - Trello
-- Jira
-- Zephyr Scale
 - GitHub
 
 ---
